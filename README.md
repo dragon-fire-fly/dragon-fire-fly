@@ -30,12 +30,12 @@ My name is Emily and I am an aspiring software developer. I am currently studyin
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-fire-fly&hide=TeX&layout=compact)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dragon-fire-fly&count_private=true&show_icons=true&include_all_commits=true)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dragon-fire-fly&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)  
 
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dragon-fire-fly.dragon-fire-fly) -->
-    
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dragon-fire-fly.dragon-fire-fly)   -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dragon-fire-fly&theme=dark&background=000000)](https://git.io/streak-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-fire-fly&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    
 
 <!--
 **dragon-fire-fly/dragon-fire-fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
