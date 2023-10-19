@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Emily and I am an aspiring software developer. I am currently studying Python Backend Development full-time with the [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/courses/python-backend-programming/) and Full Stack Software Development part-time with [Code Institute](https://codeinstitute.net/).
+My name is Emily and I am a software developer. Earlier this year I finished studying Python Backend Development full-time with the [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/courses/python-backend-programming/) and Full Stack Software Development part-time with [Code Institute](https://codeinstitute.net/). 
 
 # 💻 Tech Stack:
 ### Languages  
@@ -14,6 +14,8 @@ My name is Emily and I am an aspiring software developer. I am currently studyin
 
 ### Frameworks & Accessories  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -25,8 +27,6 @@ My name is Emily and I am an aspiring software developer. I am currently studyin
 
 # 🌱 I’m currently learning ...  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
